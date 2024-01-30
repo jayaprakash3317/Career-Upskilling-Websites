@@ -1,0 +1,22 @@
+1.https://unity.com/  - Develop Games
+2.https://z-lib.org/  - Ebook library
+3.https://go.dev/     - Go programming lang
+4.https://www.tableau.com/ - dataAnalytical tools
+5.https://powerbi.microsoft.com/en-au/ -datavisual Tool
+6.https://internfreak.co - internship & Job posting 
+7.https://flowcv.com/   -  free online resume Bulider Templates
+8.https://www.cisco.com/ - networking & Security
+9.https://skillsforall.com/ - skillsAll with Cisco
+10.https://www.kali.org/ - opensource os linux
+11.https://futurereadytalent.in/ - Virtual internship platform for students with an opportunity to learn the in-demand technology skills
+12.https://www.freecodecamp.org/ - learn coding.
+13.http://www.rosettacode.org/ - coding and problem statements with solutions in different programming language
+14.https://cp-algorithms.com/ - DataStructures full stuff 
+15.https://projecteuler.net/ - challenging mathematical/computer programming
+16.https://www.resumebuilder.org/ - CV builder
+17.https://www.techiedelight.com/ - Technical interview skills
+18.https://www.cs.usfca.edu/ - datastructure visualization 
+19.https://codingbat.com/ - coding practice
+20.https://visualgo.net/ - Visualization of Datastructures
+21.https://www.kettlemind.com/ -asses Cognitive skills
+ 
